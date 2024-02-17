@@ -41,7 +41,7 @@ loginWithMojang = "Login with Mojang"
 cancelButton = "Cancel"
 
 [ejs.overlay]
-serverSelectHeader = "Available Servers"
+serverSelectHeader = "Available Modpacks"
 serverSelectConfirm = "Select"
 serverSelectCancel = "Cancel"
 accountSelectHeader = "Select an Account"
@@ -212,7 +212,7 @@ checking = "Checking for News"
 
 [js.landing.discord]
 loading = "Loading game.."
-joining = "Sailing to Westeros!"
+joining = "Sailing to Fun!"
 joined = "Exploring the Realm!"
 
 [js.overlay]
@@ -257,7 +257,7 @@ failedToggleTitle = "Failed to Toggle<br>One or More Drop-in Mods"
 okButton = "Okay"
 
 [js.settings.serverListing]
-mainServer = "Main Server"
+mainServer = "Main Modpack"
 
 [js.settings.java]
 selectedJava = "Selected: Java {version} ({vendor})"
